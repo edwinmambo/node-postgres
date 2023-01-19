@@ -1,0 +1,2 @@
+--books
+DROP TABLE books;
