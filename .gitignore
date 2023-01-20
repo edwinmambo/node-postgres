@@ -3,3 +3,9 @@
 
 # node modules
 node_modules/
+
+# dist folder
+dist/
+
+# vscode folder
+.vscode/

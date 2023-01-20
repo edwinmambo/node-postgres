@@ -7,7 +7,6 @@ CREATE TABLE books(
   summary TEXT
 );
 
-SELECT rolname FROM pg_roles;
 
 -- INSERT INTO books (
 --   title,
